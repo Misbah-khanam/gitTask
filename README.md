@@ -1,5 +1,5 @@
 # gitTask
-### run npm install and npm run to start both the frontend and backend
+#### run npm install to install dependencies and npm start to start server for both the frontend and backend
 ## Result
 ### see your gitHub contribution graph for last 90 days by entering your username
 ![image](https://github.com/Misbah-khanam/gitTask/assets/132127475/586efa23-7708-4ace-81cb-d7a0b1650efe)
